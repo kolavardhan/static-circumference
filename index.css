@@ -1,0 +1,13 @@
+.title {
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+input {
+    outline: none;
+}
+
+.text {
+    color: red;
+    font-family: sans-serif;
+}
